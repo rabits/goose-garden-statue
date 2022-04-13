@@ -37,3 +37,6 @@ spray-paint the body, spray-varnish it a bit and you should be good.
 
 The eyes are IR sensors - so if you will just pain them with your black sharpie and spray-varnish -
 it will not affect the IR but will look just great :)
+
+Also would recommend to have a standing stick or make a platform - although the goose is balanced,
+wind can affect the balance anyway...
