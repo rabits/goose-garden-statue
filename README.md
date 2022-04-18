@@ -6,6 +6,8 @@ the storage (supercondensators) is enough.
 
 <img src="goose_01.jpg" height="200"/><img src="goose_02.jpg" height="200"/><img src="goose_03.jpg" height="200"/>
 
+<img src="goose_04.jpg" height="200"/><img src="goose_05.jpg" height="200"/><img src="goose_06.jpg" height="200"/>
+
 I use 2x7v semi-closed solar panels and 4x2.5V supercondensers which works fine for sunny places.
 
 The firmware is based on arduino, uses samd21 DMA DAC on A0 to sound like a goose. The wav files
